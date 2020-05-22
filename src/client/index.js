@@ -6,10 +6,6 @@ import './styles/form.css'
 import './styles/footer.css'
 import './styles/header.css'
 
-console.log(Client.checkForName);
-
-alert("I EXIST")
-
 export {
     checkForName,
     handleSubmit
